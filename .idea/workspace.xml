@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af874513-c1e2-45f1-a0ba-d910204c7d1b" name="Changes" comment="1st coomit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="af874513-c1e2-45f1-a0ba-d910204c7d1b" name="Changes" comment="Add gunicorn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/about-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/about-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/contact-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/contact-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676440626743</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add gunicorn">
+      <created>1676441805598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676441805598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,9 +121,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Initial Commit" />
-    <MESSAGE value="Add gunicorn" />
     <MESSAGE value="1st coomit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st coomit" />
+    <MESSAGE value="Add gunicorn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gunicorn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
